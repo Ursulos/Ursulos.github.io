@@ -2,20 +2,6 @@
 
 Portfolio statique HTML/CSS/JavaScript prêt pour GitHub Pages.
 
-## Ce que tu dois modifier
-
-Tu n’as normalement que les images à remplacer.
-
-### Photo de profil
-
-Remplace ce fichier par ta vraie photo :
-
-```txt
-assets/img/profile.jpg
-```
-
-Garde exactement le même nom : `profile.jpg`.
-
 ### Photos de couverture des projets
 
 Chaque carte projet affiche une image de couverture avant l’ouverture du carrousel. Remplace les fichiers `cover.png` en gardant les mêmes chemins :
